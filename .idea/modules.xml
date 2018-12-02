@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cash-register.iml" filepath="$PROJECT_DIR$/cash-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cash-register_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cash-register_main.iml" group="cash-register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cash-register_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cash-register_test.iml" group="cash-register" />
+    </modules>
+  </component>
+</project>
